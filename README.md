@@ -1,1 +1,1 @@
-# deepmix
+# DeepMix
